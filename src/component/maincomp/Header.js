@@ -31,8 +31,8 @@ return (
                         <Link class="tag_menu" to="/about">ABOUT</Link>                    </li>
 					
 					<li>
-                        <a class="tag_menu" href="blog.html">BLOG</a>                    </li>
-                    
+          <Link class="tag_menu" to="/blog">BLOG</Link>
+                    </li>
 					<li>
                         <a class="tag_menu" href="testimonial.html">TESTIMONIAL</a>                    </li>
 					

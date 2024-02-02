@@ -13,10 +13,10 @@ const Home = () => {
    <div class="center clearfix">
    <div class="col-sm-7 center_left clearfix">
     <div class="center_left_inner clearfix">
-	 <h1>Diam Dapibus</h1>
-	 <h3>Sed Dignissim Lacinia</h3>
-	 <h5>Adipiscing  /  Torquent  /  Litora  /  Sociosqu</h5>
-	 <h4><a href="#">ODIO MY DAPIBUS</a></h4>
+	 <h1>Soulmate</h1>
+	 <h3>Find Your Life-partner</h3>
+	 <h5>Secure  /  Trusted  /  diff-Religion  /  Any-Cast</h5>
+	 <h4><a href="#">Login Now</a></h4>
 	</div>
    </div>	 
    </div>
